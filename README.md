@@ -76,6 +76,6 @@ Rose = [1st Class, Female, Age 17, Rich] -> Prediction: [1] (Survived) 🏆
 *Aspiring Data Analyst | BCA Student*
 
 * 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/uttam-tiwari-46079a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* 📧 **Email:**  [uttamtiwari.analyst@gmail.com](mailto:[uttamtiwari.analyst@gmail.com)
+* 📧 **Email:**  [uttamtiwari.analyst@gmail.com](mailto:uttamtiwari.analyst@gmail.com)
 
 ---
