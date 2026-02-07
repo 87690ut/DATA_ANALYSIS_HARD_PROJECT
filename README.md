@@ -68,5 +68,14 @@ To test if the model works on custom data, I simulated the profiles of the movie
 # Simulated Data
 Jack = [3rd Class, Male, Age 20, Poor]  -> Prediction: [0] (Did not Survive) 💀
 Rose = [1st Class, Female, Age 17, Rich] -> Prediction: [1] (Survived) 🏆
+```
+---
 
- 
+## 👤 Author
+**Uttam Tiwari**
+*Aspiring Data Analyst | BCA Student*
+
+* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/uttam-tiwari-46079a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* 📧 **Email:**  [uttamtiwari.analyst@gmail.com](mailto:[uttamtiwari.analyst@gmail.com)
+
+---
