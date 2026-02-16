@@ -1,7 +1,7 @@
 # 🚢 Titanic Survival Prediction: Machine Learning from Scratch
 
 ### 👤 **Author:** Uttam Tiwari
-**Status:** ✅ Completed | **Accuracy:** ~81%
+**Status:** ✅ Completed | **Accuracy:** -82%
 
 ---
 
